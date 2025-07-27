@@ -1,6 +1,6 @@
 # libtb
 # How install:
-wget XXX
+wget https://github.com/hyx-web/libtb/releases/download/dev/libtb.zip
 
 unzip libtb.zip
 
